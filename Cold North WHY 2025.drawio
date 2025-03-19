@@ -73,17 +73,17 @@
         <mxCell id="xKXynRRO6VnI7B-n1XNF-65" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="xKXynRRO6VnI7B-n1XNF-18">
           <mxGeometry y="157" width="472.44" height="147" as="geometry" />
         </mxCell>
-        <mxCell id="xKXynRRO6VnI7B-n1XNF-66" value="&lt;div&gt;Omega Verksted&lt;/div&gt;&lt;div&gt;Hackeriet&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="xKXynRRO6VnI7B-n1XNF-65">
+        <mxCell id="xKXynRRO6VnI7B-n1XNF-66" value="&lt;div&gt;Omega Verksted&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;amp; Hackeriet&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="xKXynRRO6VnI7B-n1XNF-65">
           <mxGeometry width="157" height="147" as="geometry">
             <mxRectangle width="157" height="147" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xKXynRRO6VnI7B-n1XNF-67" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="xKXynRRO6VnI7B-n1XNF-65">
+        <mxCell id="xKXynRRO6VnI7B-n1XNF-67" value="1x 3x6m hard floor tent&lt;br&gt;&amp;gt;15 sleeping tents" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="xKXynRRO6VnI7B-n1XNF-65">
           <mxGeometry x="157" width="157" height="147" as="geometry">
             <mxRectangle width="157" height="147" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xKXynRRO6VnI7B-n1XNF-68" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="xKXynRRO6VnI7B-n1XNF-65">
+        <mxCell id="xKXynRRO6VnI7B-n1XNF-68" value="A space for Tesla Coil" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="xKXynRRO6VnI7B-n1XNF-65">
           <mxGeometry x="314" width="158" height="147" as="geometry">
             <mxRectangle width="158" height="147" as="alternateBounds" />
           </mxGeometry>
