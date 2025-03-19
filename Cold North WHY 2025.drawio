@@ -1,25 +1,25 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.1.1">
   <diagram name="Page-1" id="S961MPwOC7T8OK-ADWTU">
-    <mxGraphModel dx="4894" dy="2403" grid="1" gridSize="39.37" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="4242" dy="2049" grid="1" gridSize="39.37" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xKXynRRO6VnI7B-n1XNF-5" value="Salmiakki&lt;br&gt;3x6m hard floor tent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xKXynRRO6VnI7B-n1XNF-5" value="&lt;span style=&quot;color: light-dark(rgb(255, 0, 0), rgb(237, 237, 237));&quot;&gt;DRAFT&lt;br&gt;Salmiakki&lt;br&gt;3x6m hard floor tent&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="236.21999999999997" y="196.85" width="236.22" height="118.11" as="geometry" />
         </mxCell>
         <mxCell id="xKXynRRO6VnI7B-n1XNF-6" value="&lt;div&gt;&lt;font style=&quot;font-size: 72px;&quot;&gt;Scale: 1mm = 1cm&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;(Grid = 1m, for now at least)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-78.74" y="-156" width="1102.36" height="116.63" as="geometry" />
         </mxCell>
-        <mxCell id="xKXynRRO6VnI7B-n1XNF-7" value="OV / Hackeriet&lt;br&gt;3x6m hard floor tent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xKXynRRO6VnI7B-n1XNF-7" value="&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;DRAFT&lt;br&gt;OV / Hackeriet&lt;br&gt;3x6m hard floor tent&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="551.18" y="196.85" width="236.22" height="118.11" as="geometry" />
         </mxCell>
-        <mxCell id="xKXynRRO6VnI7B-n1XNF-8" value="?&lt;br&gt;3x6m hard floor tent" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="xKXynRRO6VnI7B-n1XNF-8" value="&lt;span style=&quot;color: light-dark(rgb(255, 0, 0), rgb(237, 237, 237));&quot;&gt;?&lt;br&gt;3x6m hard floor tent&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="728.35" y="610.24" width="236.22" height="118.11" as="geometry" />
         </mxCell>
-        <mxCell id="xKXynRRO6VnI7B-n1XNF-9" value="?&lt;br&gt;3x6m hard floor tent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xKXynRRO6VnI7B-n1XNF-9" value="&lt;span style=&quot;color: light-dark(rgb(255, 0, 0), rgb(237, 237, 237));&quot;&gt;?&lt;br&gt;3x6m hard floor tent&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="551.18" y="866.14" width="236.22" height="118.11" as="geometry" />
         </mxCell>
-        <mxCell id="xKXynRRO6VnI7B-n1XNF-10" value="10x10m star tent?" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="xKXynRRO6VnI7B-n1XNF-10" value="&lt;span style=&quot;color: light-dark(rgb(255, 0, 0), rgb(237, 237, 237));&quot;&gt;DRAFT&lt;br&gt;10x10m star tent?&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="196.85" y="393.7" width="394.96" height="394.96" as="geometry" />
         </mxCell>
         <mxCell id="xKXynRRO6VnI7B-n1XNF-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -30,9 +30,6 @@
         </mxCell>
         <mxCell id="xKXynRRO6VnI7B-n1XNF-12" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;Street&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="-39.37" y="748.03" width="157.74" height="69.34" as="geometry" />
-        </mxCell>
-        <mxCell id="xKXynRRO6VnI7B-n1XNF-13" value="Anderstorpfestivalen&lt;br&gt;3x6m Party Tent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="236.22000000000003" y="866.14" width="236.22" height="118.11" as="geometry" />
         </mxCell>
         <mxCell id="xKXynRRO6VnI7B-n1XNF-18" value="Participants" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-944.88" y="157.48" width="472.44" height="1185.5099999999998" as="geometry" />
